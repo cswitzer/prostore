@@ -40,7 +40,7 @@ const ModeToggle = () => {
                     )}
                 </Button>
             </DropdownMenuTrigger>
-            <DropdownMenuContent className="w-56">
+            <DropdownMenuContent>
                 <DropdownMenuLabel>Appearance</DropdownMenuLabel>
                 <DropdownMenuSeparator />
                 <DropdownMenuCheckboxItem
